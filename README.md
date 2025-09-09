@@ -448,37 +448,8 @@ plt.show()
 
     
 ![png](outputs-media/output_22_0.png)
-    
 
 
-<style>
-.metrics-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 15px;
-}
-.metrics-table th, .metrics-table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
-}
-.metrics-table th {
-    background-color: #f2f2f2;
-}
-.metrics-table .label {
-    font-weight: bold;
-    background-color: #f7f7f7;
-}
-.correct { background-color: #dff0d8; }
-.incorrect { background-color: #f2dede; }
-.info-box {
-    border-left: 4px solid #3c763d;
-    background-color: #f9f9f9;
-    padding: 15px;
-    margin: 10px 0;
-    border-radius: 5px;
-}
-</style>
 <div class="info-box">
 <h3>Interpreting the confusion matrix for employee attrition</h3>
 <p>The confusion matrix provides a detailed breakdown of our model's performance by showing correct and incorrect predictions for each class.</p>
